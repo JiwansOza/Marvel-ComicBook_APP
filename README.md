@@ -1,4 +1,3 @@
-```markdown
 # 📖 Marvel ComicBook App
 
 Welcome to the **Marvel ComicBook App**! This Flutter-based application allows users to explore Marvel comics, characters, and stories using the Marvel API. 📚🦸‍♂️
@@ -75,5 +74,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 💡 *Explore the Marvel Universe like never before with Flutter!* 🚀
-```
 
